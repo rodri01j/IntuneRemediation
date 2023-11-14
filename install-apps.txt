@@ -1,2 +1,2 @@
-Version 23.09.0.99
-Citrix Workspace 2309
+Version 22.10.0.21
+Citrix Workspace 
