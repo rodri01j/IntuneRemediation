@@ -1,3 +1,9 @@
 Version 1.0
+7zip.7zip
+Adobe.Acrobat.Reader.64-bit
+Microsoft.OneDrive
+Google.Chrome
 Citrix.Workspace
+TrackerSoftware.PDF-XChangeEditor
 VideoLAN.VLC
+
