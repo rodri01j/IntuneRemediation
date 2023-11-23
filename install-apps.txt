@@ -6,5 +6,7 @@ Google.Chrome
 Citrix.Workspace
 TrackerSoftware.PDF-XChangeEditor
 VideoLAN.VLC
+Oracle.JavaRuntimeEnvironment
+BellSoft.LibericaJDK.8
 PuTTY.PuTTY
 
